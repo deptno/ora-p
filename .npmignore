@@ -1,0 +1,8 @@
+**/*.ts
+**/*.gif
+**/*.png
+!**/*.d.ts
+tsconfig.json
+build
+src
+.git
